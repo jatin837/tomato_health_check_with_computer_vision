@@ -1,4 +1,4 @@
-# Potato Blight Classification
+# 📌 Introduction
 
-This is an end-to-end deep learning project to classify blight status on potato plant.
+This is an end-to-end deep learning project to classify blight status on tomato plant.
 
